@@ -25,5 +25,6 @@ class Solution:
             recursion(n,0,0,m, ans,"")
         return ans
 
-# Time: O(n^2)
+# Time: O(n^2) 
+# To be more precise: O(3^(n^2-(4n-4)) * 2^(n^2-(4n-4))
 # Space: O(n^2)
