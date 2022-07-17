@@ -45,5 +45,5 @@ class LRUCache:
 # obj.put(key,value)
 
 
-# Time: O(n)
+# Time: O(1) average
 # Space: O(n)
